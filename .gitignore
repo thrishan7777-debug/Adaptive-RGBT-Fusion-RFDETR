@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+datasets/
+FLIR_ADAS_v2/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated videos
+*.mp4
+*.avi
+
+# Logs and temporary files
+logs/
+temp/
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
