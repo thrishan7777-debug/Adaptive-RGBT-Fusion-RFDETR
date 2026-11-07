@@ -1,1 +1,11 @@
 
+numpy
+opencv-python-headless
+Pillow
+matplotlib
+pandas
+scikit-learn
+pycocotools
+supervision
+rfdetr
+
